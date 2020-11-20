@@ -1,5 +1,5 @@
 ## Figure 18
-This figure covers the case of a Nonlinear model of quadrotor motion and a target moving on a circle with constant speed <img src="https://render.githubusercontent.com/render/math?math=\|v_T\| = 1">m/s. No wind and sensor noise are considered here. Control is applied along the line-of-sights of the quadrotors and target and in the corresponding lateral directions. The quadrotors are placed on either side of the target, such that the three are collinear. The gains for the simulation are:<br>
+This figure covers the case of a Nonlinear model of quadrotor motion and a target moving on a circle of radius = 10 m, with constant speed <img src="https://render.githubusercontent.com/render/math?math=\|v_T\| = 1">m/s. No wind and sensor noise are considered here. Control is applied along the line-of-sights of the quadrotors and target and in the corresponding lateral directions. The quadrotors are placed on either side of the target, such that the three are collinear. The gains for the simulation are:<br>
 
 <img src="https://render.githubusercontent.com/render/math?math=K_{P} = 1">
 <img src="https://render.githubusercontent.com/render/math?math=K_{Pr} = 1.5">
