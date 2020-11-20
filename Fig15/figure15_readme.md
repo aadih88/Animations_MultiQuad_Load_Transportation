@@ -9,7 +9,7 @@ This figure covers the case of a Nonlinear model of quadrotor motion and a movin
 <img src="https://render.githubusercontent.com/render/math?math=K_{D\alpha} = 0.2">
 
 15a. Control law: 5.4 from Table 5; <img src="https://render.githubusercontent.com/render/math?math=K_{Pr} = 0.05"><br>
-15a. Control law: 5.9 from Table 5; <img src="https://render.githubusercontent.com/render/math?math=K_{Pr} = 0.1"><br>
+15b. Control law: 5.9 from Table 5; <img src="https://render.githubusercontent.com/render/math?math=K_{Pr} = 0.1"><br>
 
 
 The position of the quadrotors (Q1 and Q2) are plotted in two-dimensional space over time, showing the trajectory, instantaneous velocity and acceleration input directions. The target (T) is displayed in green. The load is displayed as a black bar between the quadrotors, with green ends signifying an extension and magenta, a compression in the connecting ends. The circles about the target on which the quadrotors have to settle are also displayed for clarity. The reference distances and angales are:<br>
